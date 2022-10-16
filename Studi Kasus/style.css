@@ -1,0 +1,24 @@
+body{
+    background-color: #faf2e4;
+    margin: 0 10%;
+    font-family:sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+h2{
+    color: #d1633c;
+    font-size: 1em;
+}
+img{
+    background-image: url("blackgoose.png");
+    border-image-width: 20pt;
+    display: block;
+    margin:auto;
+    margin-top: 1cm;
+    margin-bottom: 0cm;
+}
